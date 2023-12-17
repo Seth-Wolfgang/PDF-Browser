@@ -1,0 +1,13 @@
+
+
+
+{
+    "id" : 0,
+    "title" : "Sample",
+    "author" : ["John Doe", "Jane Doe"],
+    "year" :  2002,
+    "venue" : "IEEE Example Conference",
+    "Description" : "Sample Description",
+    "tags" : ["Sample"],
+    "required" : ["id", "title", "author"]
+}
